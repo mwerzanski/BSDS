@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="java-client-generated">
+    <CLASSES>
+      <root url="file://$USER_HOME$/Downloads/java-client-generated" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$USER_HOME$/Downloads/java-client-generated/src/main/java" />
+      <root url="file://$USER_HOME$/Downloads/java-client-generated/src/test/java" />
+    </SOURCES>
+  </library>
+</component>
